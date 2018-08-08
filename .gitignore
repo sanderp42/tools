@@ -1,0 +1,6 @@
+# specific file extensions
+#*.json
+*.pyc
+*.cp
+#*.txt
+
